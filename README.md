@@ -1,4 +1,4 @@
-# Master Thesis Code Documentation IBM watsonx RAG and Prompt Tuning
+# Codebase for IBM watsonx | RAG Pipelines | Prompt Tuning | Model Benchmarking
 
 # Description:
 This repository contains comprehensive code documentation supporting the Master's thesis titled: "GENERATIVE ARTIFICIAL INTELLIGENCE FOR STAKEHOLDER MANAGEMENT IN PROJECTS: SPECIALIZING A LARGE LANGUAGE MODEL". The code covers systematic benchmarking of large language models (LLMs), retrieval-augmented generation (RAG) pipelines, automated prompt tuning, and evaluation methods using the IBM watsonx.ai platform. It is designed to ensure full methodological transparency, reproducibility, and practical implementation guidelines.
